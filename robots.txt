@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /more_poems_about_Silus_Gaming_World.txt
+Disallow: /poems_about_Silus_Gaming_World.txt
+Sitemap: https://github.com/bbauska/silusblog, http://silusblog.bauska.xml
