@@ -187,7 +187,7 @@ https://www.nasa.gov/specials/sounds/ring-miri-Aug-%203.wav
 😽 Kissing Cat Face<br>
 
 ### Sub count: Silus Gaming World
-https://livecounts.org/live-sub-count/SILUS-GAMING-WORLD
+<a href="https://livecounts.org/live-sub-count/SILUS-GAMING-WORLD">Sub count: Silus Gaming World</a>
 
 ### Sub count: Silus Spider
 https://livecounts.org/live-sub-count/SILUS-SPIDER
